@@ -1,0 +1,11 @@
+#pragma once
+#define RESET_COLOR "\033[0m"
+#define RED_TEXT "\033[1;31m"
+#define GREEN_TEXT "\033[1;32m"
+#define YELLOW_TEXT "\033[1;33m"
+#define ORANGE_TEXT "\033[1;38;5;208m"
+#define LIGHT_BLUE_TEXT "\033[1;36m"
+#define DARK_YELLOW_TEXT "\033[1;33m"
+#define DARK_GREEN_TEXT "\033[1;32m"
+#define LIGHT_YELLOW_TEXT "\033[1;93m"
+#define DARK_BLUE_TEXT "\033[1;34m"
